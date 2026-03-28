@@ -87,3 +87,5 @@ I enjoy turning ideas into real-world projects that combine creativity and techn
 <p>
 Focused on developing scalable, user-centered applications and continuously improving technical and problem-solving skills through real-world projects.
 </p>
+
+https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
