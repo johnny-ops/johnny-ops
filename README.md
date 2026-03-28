@@ -5,7 +5,7 @@ Computer Engineering Student • Aspiring Game Developer • Software Engineer
 </h3>
 
 <p align="center">
-I am passionate about building interactive applications, AI-powered systems, and modern digital solutions.
+I am passionate about building interactive applications, and modern digital solutions.
 I enjoy turning ideas into real-world projects that combine creativity and technology.
 </p>
 
@@ -14,8 +14,8 @@ I enjoy turning ideas into real-world projects that combine creativity and techn
 <h3>About Me</h3>
 <ul>
 <li>Currently pursuing a degree in Computer Engineering</li>
-<li>Interested in Game Development and Artificial Intelligence</li>
-<li>Building projects involving AI, web systems, and mobile applications</li>
+<li>Interested in Game Development and Web development</li>
+<li>Building projects web systems, and mobile applications</li>
 <li>Currently learning React Native, Firebase, and Machine Learning</li>
 <li>Goal: Become a Full-Stack Developer and Game Developer</li>
 </ul>
@@ -77,7 +77,6 @@ I enjoy turning ideas into real-world projects that combine creativity and techn
 <h3>Areas of Interest</h3>
 <ul>
 <li>Game Development (Unity / Unreal Engine)</li>
-<li>Artificial Intelligence and Computer Vision</li>
 <li>Mobile Development (React Native)</li>
 <li>Full-Stack Web Development</li>
 </ul>
