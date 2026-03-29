@@ -5,7 +5,7 @@ Computer Engineering Student • Aspiring Game Developer • Software Engineer
 </h3>
 
 <p align="center">
-I am passionate about building interactive applications, and modern digital solutions.
+I am passionate about building interactive applications and modern digital solutions.  
 I enjoy turning ideas into real-world projects that combine creativity and technology.
 </p>
 
@@ -14,8 +14,8 @@ I enjoy turning ideas into real-world projects that combine creativity and techn
 <h3>About Me</h3>
 <ul>
 <li>Currently pursuing a degree in Computer Engineering</li>
-<li>Interested in Game Development and Web development</li>
-<li>Building projects web systems, and mobile applications</li>
+<li>Interested in Game Development and Web Development</li>
+<li>Building web systems and mobile applications</li>
 <li>Currently learning React Native, Firebase, and Machine Learning</li>
 <li>Goal: Become a Full-Stack Developer and Game Developer</li>
 </ul>
@@ -39,35 +39,41 @@ I enjoy turning ideas into real-world projects that combine creativity and techn
 
 <hr/>
 
-<h3>Languages and Tools</h3>
+<h3>Tech Stack</h3>
 
 <p>
 
-<!-- Programming -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-
-<!-- Web -->
+<strong>Frontend</strong><br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
 <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
 
-<!-- Backend -->
+<br/><br/>
+
+<strong>Backend</strong><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
 
-<!-- Tools -->
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+<br/><br/>
+
+<strong>Programming Languages</strong><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+
+<br/><br/>
+
+<strong>UI/UX & Tools</strong><br/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="40"/>
 
 </p>
